@@ -1,0 +1,148 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.17.1",
+    "name": "Barn",
+    "author": "Lays24MC",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 31,
+      "max_y": 23,
+      "max_z": 20
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 48,
+          "item": {
+            "id": "minecraft:dark_oak_fence_gate"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 358,
+          "item": {
+            "id": "supplementaries:daub"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 500,
+          "item": {
+            "id": "minecraft:deepslate_tile_stairs"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 390,
+          "item": {
+            "id": "minecraft:deepslate_tiles"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "minecraft:dirt"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 12,
+          "item": {
+            "id": "framedblocks:framed_button"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 68,
+          "item": {
+            "id": "minecraft:iron_bars"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 20,
+          "item": {
+            "id": "minecraft:ladder"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "minecraft:lightning_rod"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 12,
+          "item": {
+            "id": "minecraft:polished_deepslate"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 60,
+          "item": {
+            "id": "minecraft:polished_deepslate"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 64,
+          "item": {
+            "id": "minecraft:polished_deepslate_stairs"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 16,
+          "item": {
+            "id": "minecraft:polished_deepslate_wall"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 344,
+          "item": {
+            "id": "minecraft:spruce_log"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 12,
+          "item": {
+            "id": "decorative_blocks:spruce_support"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 6,
+          "item": {
+            "id": "minecraft:spruce_trapdoor"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 32,
+          "item": {
+            "id": "engineersdecor:steel_framed_window"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 252,
+          "item": {
+            "id": "minecraft:stripped_dark_oak_log"
+          }
+        }
+      ]
+    }
+  },
+  "body": "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\u003d\u003d"
+}
