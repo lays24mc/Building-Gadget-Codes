@@ -1,0 +1,50 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.17.1",
+    "name": "oak_tree_1",
+    "author": "Lays24MC",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 8,
+      "max_y": 18,
+      "max_z": 10
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 59,
+          "item": {
+            "id": "minecraft:birch_leaves"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 99,
+          "item": {
+            "id": "minecraft:grass_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 197,
+          "item": {
+            "id": "minecraft:oak_leaves"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 18,
+          "item": {
+            "id": "minecraft:oak_wood"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAA/82XTW8bNxCGubv83g85Rttz/0LStIdce22LHttcjLW1kYXIUqCVm7i/PiTnUWIZqIECbmEf/Gg47wyHQ4q7ikoFpZfjYYxKqT7KZ9WoOE/79bhZ/z3tk0NFZebDeJiiir/vdx+m/WE9zT4Nbncf75R5N27mSXmlfxtvJvXtzXo7Xe3Hd4c3q/04zxeXm93V+5zk32VvP6ax/Wa3Wk1L5vDKL9dJu72aVPWDVzGJ5zQwbQ8Pq/juaxWX6/3V9cVmGv+a5qcv46dHy/jmaxm78f1/VsTr51DEj89jQx4/F/9TL149j148XsazOBdPVIQeP61nVd19yXt+mvfjbrd8+qW9fB7b/HgZz+IO+sdeBNV82M1aqepW3furYA0bqKGBFjroH6SoYA0bqKGBFjroH5RQwRo2UEMDLXTQP1hCBWvYQA0NtNBBT+naydSVl9DGM45tCrWqA+NHxkyjdHfaygrWsIEaGmihg77QqMZmpn9WllA7xgtdrre02hT6XLfoPDpPPLbBb73o3VEfJE8TyBvQB/wRfyRfxB/JF8mHXbfM35IP2xztDn8veXXP+IBuwF6cHskK1rCBGhpooYO+MC2mgnWmy/015btqxTZWjqy1kir1W3SFbe63ydmNE78t7JRzcrRS/0XvyevRe/QeXZB56oA+kB/bBPQw9b/kaSK6iC5SbyRvi74lb0sd2Aa/beXoVR26jrzYpkPXSV6HXffU0cu4hdVAnoH5BtZ9HF+Qf8H4QvI1Z1K/OTu9cipYwwZqaKCFDvrC9KWshPrIGjZQQ5MZ8zkQ28rRsVauCIdduUyXz4PoHfrCNp+H4rdO9M5xxXjiPfFe9I0n3ks+g9+id8e4IEusA3GBuEBcIC4QF2Rez3g6NxIXicM2kbhIXKTelnlb4lviW+KxDX7b0o8Of4e/kyu/6snTk6dH1zPPgH/AP+DHNvjt0b/Av2CfFtKfdI6KX5+J3pyJv3khtn4htj4/faRVsIYN1NBACx30hW0+L457w3FvlEdKOi/Frp34G4ce2zi5mmyhL1cn94fEeeIKyz3iuEdkHvTuGBeIC8QF5gvME9AXdqqKMl5H9BE9tonME8nfom/Rt+gZt62sI90nRV93+LHt0e7J35O/J+9A3gHdwHoH8mOn/XfcI5JnIf60/4UGpv0+eWWpYA0bqKGBFjroeXSk+6FsubbyqpD21fMc9jyHi20Ku7yv5RGe9tPzHBYdtvGSx3o2Hzvtn+iDXGUa2wT0AX2QedL+iT6SH9tE5m/xt/hb6muZr8Pf4e8kf/q+it2TryfuOD7AxZdXwkCfA30O9DnQ50CfA30O9DnQ51D2zWX63L/Ae1go71uFXe6j6ArL+5joPfqAPoi/CeixzXE8Zpb3NhmHqQ+B9zixe+xe6lT5yyjrjKwzss7IOiPrjKwzss7IOmOOSvXFHKULfa6rMNUV01V8PY3LaZ+WNd4ernd75X8Z7+ZXr3/9Ofkud7fb5ZxC0yv/nzJ3/vjH8eP46W2uUj5mwbl8zAIv2rd8MfQ2/3aI+WfLYT9NFy/TIu/9WvFlod9f3q43y/V2tRqXq+kwv1ne3tzcXdz7UfMZdGr6UegSAAA\u003d"
+}

@@ -1,0 +1,57 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.17.1",
+    "name": "oak_tree_2",
+    "author": "Lays24MC",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 9,
+      "max_y": 17,
+      "max_z": 8
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 47,
+          "item": {
+            "id": "minecraft:birch_leaves"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 89,
+          "item": {
+            "id": "minecraft:grass_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 186,
+          "item": {
+            "id": "minecraft:oak_leaves"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 19,
+          "item": {
+            "id": "minecraft:oak_wood"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 5,
+          "item": {
+            "id": "minecraft:spruce_fence"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAA/82XTXPjRBCGR5qZng9JdpxdOPMXCAtU7ZUrUBxhLyklVhzXOlZKsknCr2em+zWJt8B8lEk5l8etfqenp3tGmkSlgjLzdtNGpdTbKL+VVnHshmW7Wv7WDcmhorLjpt10UcWfhv6+GzbLbvTp4bp/eFL2pl2NnfLK/Njedeqzu+W6ux7am837xdCO4+XVqr/+mIP8u+jVQ3o2rPrFoptjDq/8fJm06+tOFV97FZN4TA+69ebTLN4+Z9G3Hy9XXftrN752Ep8/J3G1HK5v/7c03p1CLb45hSS+Oo2GfHsKtTi8K16tFodbcqRamPZxOari8Y+45/txH/p+fvylXZxCmw/vtVdr8+Hj/2ppHG7J0dLAfns67n4zXTtulNkM2+4vVmrHfru5fTbX/fDCNA/deGjN4/2wve4ub7pcqv+Y3W6uQ+lhBX+aHfuOn9zf7YsvT+GoHk7ieJvzHzfqKPsoKH3fj0ap4oN68VeAJahBA1qQQAd6MHwSqgBLUIMGtCCBDvRgQAjjM0tlA+yYqZWN+ykXYAlq0IAWJNCBHgxMo0ovITRT5/nLPNoySZVBdJrpcl5MCrJUB+qI8Uyf890rbQGWoAYNaJkh56uRr0a+GvlySbWToYaZ5mFaRU78aT3s1178hhnzetgm+B2zUkXINHmdEp/plAmID1LAOGatyoj4EfEj8oiYv4K/gh82MRtla/gb+Bv4QTuROATa6f4WLcAS1KABLUigAz0YmBNlC2lB6TKnua6JZ7muJudJTraUd7KVCw890+c6G34HMGe5zmwT/A567yW1VG+OUzJdrjfrTMA42C5AH6GPmId5nust+UXoI/KqkFcFfYW8YBP8bqeroauhg0275w2eN3jeyDx6grwn8tzCpon43UTqpqeZb5SZ7r9aCrAENWhACxLoQA8GZpqkEFqQmKl4JZ7vqEED2syZMgSb6fM+sHk9mnme94P4negJfuckxbQPRO+h99DDJi9H23t5Bab+s10GmU8H6APiB8SH3wcZl/ovuijPXUTcKP4QkUeFdVXQw6YKcZlN7rvoauhgE/ONcjXiNVhXA10DXSNxXIN1TERvJuK3sGki/tR/tu1UbJpK/uZMbHsmNoF2tv8JKsAS1KABLUigAz0YmLxPiOcn2Vqpz8T7kznLfSbO24nOMV3uM+G8E8474bwTzjvhvLPeg2XAOGaTzznx+YVNQfJwePX7IJ/IEDBPxDwR+oh5IuaJ0EcZn84/4fwTzj/h/BPOP+H8y/pr6GroYFMN3c7fwN8gjwb+RuKkvhPeA4T3AOE9wPml9wDbZip+O5X8aSr+tA/Yb8/2rxwFWIIaNKAFCXSgBwM+panPjvchM+Y+s9Q5+D38IHm5oqT+iT/AHzAeNsHvgug9mM6rjIsYx2xyHx2+k3wl8TtdhbgV4laIWyFuJeNSn0RXQ1fLp83X8DfwN+JP/XD4jnKcVH+H7+nela4AS1CDBrQggQ70YMBVJdWPaUHyIkn1EhtM9fC4J8nzKJ9mH+WKlvYtt5AqsV2FcTXG1bz1b7t23g2pDG26MPeD8t+3T+PFux++S76rfruej2lIuhr/ImvKP3/e/Wwf843Yy88smMnPLAii/YACmXW+Y8f838dm6LrLi7TeF7d9zwX84mq7XM2X68WinS+6zfh+vr27e7p88U/B75nn07PTFQAA"
+}

@@ -1,0 +1,50 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.17.1",
+    "name": "pine_tree_1",
+    "author": "Lays24MC",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 11,
+      "max_y": 15,
+      "max_z": 10
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 132,
+          "item": {
+            "id": "minecraft:grass_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 174,
+          "item": {
+            "id": "minecraft:spruce_leaves"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 17,
+          "item": {
+            "id": "minecraft:spruce_log"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 6,
+          "item": {
+            "id": "minecraft:spruce_sapling"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAA/83Xz2/bNhTAcUok3+OPZL102I77E9auw4BedxqwDTt2vQRKrLrGHDuQ7DXZX19K/KqN08MwoAuay8eP74miSVNUkjHRuFV36JIxJqX62ViTxn7YdNvNP/1gpozx46E79MmkP4b9TT8cNv0YSuNu/+7O+DfdduxNMO737ro3X19vdv3V0L05vFwP3TheXG73V39Nnfy33vO70jZs9+t1v+IewYTVptTurnrT/BBMKsVjaeh3B+MOw/HjIL75OIjxZjhe9Rfbvvu7Hz//MJ4/zjCmxnW53fcf+v72k77H7ma72a0//3f86cuY6mePMwzX3W5G09x96Prpp13v/4dZ/vHLmOUXjzrLt/82y9HYm/3ojGl+Mff+GmzRokOPgooBIybMD7pusEWLDj0KKgaMmDA/GHKDLVp06FFQMWDEhJmhel8Vfzo1DbZo0aFHQcWAERNmhiyuTo3zNfYoqBh8rfNCXmqsUocSZp1xWmNR8ugD1y1G8pE4ESfiXPvRfPrTaLBFiw49CioGjJgw85Nwri6dn/XTvMyxupq3vsbO17xHQcVAXVzqhX6FemLFsOSVvJJXxhXIB/LEGmo+oIvUReqINZJP5BN5Yk30s+Qz+Ux+ic/w/HSLNtiiRYceBRUDRkyYZ8VIg+2kmtZOlh+Ppd3WLWxd3WrO1Vt5R55YMVBX1nGO3Wyc1rHWEysG6qKvW8sK16EXriNWDMK4lHEp9Uo9sZIPWusj2sB1gesC1xEr+bDUReoidcQaqYv0m6hP1CfqiXXJZ/KZPLEu7We0n9GO/pz2c9pRvqr9ypPTR3qDLVp06FFQMWDEhJlHbVn/+ZEeXY3LegvrLexbYd8K+1bYt8K+neOy3vOtnXAditQ6xYBlvet9lHEQC7FqfTSH2TCtt7DOwv4W9rewv+c6G+v3cZG6SB2xkg9LXaIuUUesS3umPdOOZV2FfS7s85Ojt8EWLTr0KKgYMGLCzJFb9q3yXFXOH+X8Uc4f5fyZLeui7EPluaqcR8p5pOy7OfZKnliX9kA8G6b5Vc6lOQ6RuoSZ/OLZ6StJgy1adOhRUDFgxISZVJmfeQq9q7G4+opS5mdWfX2lKPMROJ/nI1+Jy/eeryvft8bx9BWqwRYtOvQoqBgwYsL84NWswRYtOvQoqBgwYsI8/58rb/tu1Q9lOrrj4e1+MOHX7m58/uK3n0vucn/crUZrXHkh/bPec/r4avnY3b6eOqwfp4In9eNUkGvtaxbW7aY323xT3mwvDkPfXzwrA7r3fhzmb/jd5XGzXZX/3Nbdat0fxper4/X13cW91+j3ZgQgsKkPAAA\u003d"
+}
